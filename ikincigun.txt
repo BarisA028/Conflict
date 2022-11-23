@@ -8,4 +8,4 @@ Git Github ucuncu gun ilk deneme
 Git Github ucuncu gun ikinci deneme
 MASTER BRANCH YENİ EKLEME
 Git Github ucuncu gun BARİS BRANCHI ilk deneme
-
+MASTER BRANCH 2. EKLEME
