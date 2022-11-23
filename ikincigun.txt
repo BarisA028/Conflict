@@ -6,3 +6,4 @@ Git Github ikinci gun MASTER BRANCH deneme
 Git Github ikinci gun ASLAN BRANCH ilk deneme
 Git Github ucuncu gun ilk deneme
 Git Github ucuncu gun ikinci deneme
+Git Github ucuncu gun BARİS BRANCHI ilk deneme
